@@ -1,0 +1,14 @@
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+data/*.fvecs
+data/*.ivecs
+data/*.bvecs
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
